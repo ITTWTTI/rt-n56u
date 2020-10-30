@@ -114,6 +114,8 @@ jobs:
         repo_token: ${{ secrets.R_TOKEN }}*
         file: /opt/images/*.trx
         tag: AtuoBuild
-        overwrite: true
+        overhwrite: true
         file_glob: true
-
+        
+        
+        
